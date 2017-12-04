@@ -1,0 +1,10 @@
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Sangmuk', 'Lyu', 5, 1);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Jay', 'Song', 3, 2);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Edward', 'Ma', 6, 3);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Irina', 'Potapkina', 10, 1);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Jordan', 'Miles', 7, 3);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Allen', 'Lydriad', 2, 2);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Chelsea', 'Edgett', 9, 1);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Samantha', 'Powell', 0, 2);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Stephen', 'Borys', 4, 3);
+INSERT INTO employee (first_name, last_name, years_exp, title_id) VALUES ('Mary', 'MacDonald', 10, 3);
